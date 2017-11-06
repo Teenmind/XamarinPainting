@@ -1,0 +1,311 @@
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.Android.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.Android-Signed.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\Painting.Android.csprojResolveAssemblyReference.cache
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\Painting.Android.csproj.CoreCompileInputs.cache
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\android\bin\Painting.Android.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\layout\drawing.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\layout\main.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\values\strings.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\R.cs.flag
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\uploadflags.txt
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\bin\Debug\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\android\assets\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\android\assets\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\values\styles.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\menu\top_menus.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Painting-master\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.csprojResolveAssemblyReference.cache
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android-Signed.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.csproj.CoreCompileInputs.cache
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\bin\Painting.Android.apk
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\drawing.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\main.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\values\strings.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\values\styles.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\menu\top_menus.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\R.cs.flag
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\uploadflags.txt
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Teenmind\Desktop\PaintForGuys\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.apk
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android-Signed.apk
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.csprojResolveAssemblyReference.cache
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.csproj.CoreCompileInputs.cache
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.dll
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\Painting.Android.pdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\bin\Painting.Android.apk
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\drawing.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\leftdrawer.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\drawer_list_item.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\main.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\values\strings.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\values\styles.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_create.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_action_content_save.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_copy_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_cut_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_paste_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_search_holo_dark.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\menu\top_menus.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_upload_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_download_white_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_border_color_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_file_upload_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_menu_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_note_add_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_save_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_settings_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-hdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-mdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\drawable-xxxhdpi\ic_file_download_black_24dp.png
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\R.cs.flag
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\uploadflags.txt
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\res\layout\preferences.xml
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\bin\Debug\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Painting.Android.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Painting.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Teenmind\Desktop\Xamarin Panit\Painting\Painting.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cloud xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_cSave"
+            android:title="Cloud Save" />
+        <item
+            android:id="@+id/nav_sLoad"
+            android:title="Cloud Load" />
+    </group>
+</cloud>

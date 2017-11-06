@@ -1,0 +1,1 @@
+<resources><style name="MyTheme" parent="android:Theme.Material.Light.DarkActionBar"><item name="android:windowNoTitle">true</item><item name="android:windowActionBar">false</item><item name="android:colorPrimary">#f9cb9c</item><item name="android:textColorPrimary">#000000</item></style></resources>
